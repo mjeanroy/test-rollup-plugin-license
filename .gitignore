@@ -1,3 +1,7 @@
+# Build output
+src/bundle.js
+dependencies.txt
+
 # Logs
 logs
 *.log
